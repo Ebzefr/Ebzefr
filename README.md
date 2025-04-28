@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ebenezer Obi!
 
-<!--
-**Ebzefr/Ebzefr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at the University of Chester.  
+🔒 Passionate about Cybersecurity, Cloud Development, and Data Analytics.  
+🚀 Building full-stack web applications, cloud storage platforms, and insightful data dashboards.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I Use:
+- Languages: Python, JavaScript, C#, R, Kotlin, HTML, CSS and SQL
+- Tools: Visual Studio Code, Figma, Firebase
+- Skills: Full-Stack Development, Cloud Storage, Cybersecurity Basics, Data Analysis and UX/UI Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Projects:
+- Clouddey: A secure cloud storage web application
+- Job Market Data Analysis Dashboard
+- Lofis Restaurant Web and Mobile Apps (Full Stack and UX/UI)
+
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/ebenezer-obi-23858324b/)
+- [GitHub](https://github.com/Ebzefr)
+
