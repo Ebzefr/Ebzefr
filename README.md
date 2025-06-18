@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ebenezer Obi!
 
 🎓 Computer Science student at the University of Chester.  
-🔒 Passionate about Cybersecurity, Cloud Development, and Data Analytics.  
+🔒 Passionate about User experience, Frontend design, Cloud/Cybersecurity Development and Data Analytics.  
 🚀 Building full-stack web applications, cloud storage platforms, and insightful data dashboards.
 
 ## 🛠️ Technologies I Use:
